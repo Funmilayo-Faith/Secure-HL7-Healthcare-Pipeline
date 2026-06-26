@@ -130,3 +130,5 @@ This projecr uses synthetic laboratory data generated solely for educational and
 
 # Connect with me
 If you are interested in healthcare cybersecurity, laboratory information systems or health data analytics, I would be happy to connect and discuss opportunities for collaboration.
+GitHub: https://github.com/Funmilayo-Faith
+LinkedIn: www.linkedin.com/in/faith-ajila
