@@ -69,8 +69,7 @@ secure-hl7-healthcare-pipeline/
 ├── audit_log.txt
 ├── README.md
 ├── LICENSE
-├── .gitignore
-└── secret.key (excluded from GitHub)
+└── .gitignore
 ```
 
 # HL7 structure
