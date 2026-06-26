@@ -97,6 +97,9 @@ HB --> PCV
 PCV --> WBC
 WBC --> PLT
 ```
+# Project Report
+[Secure HL7 Healthcare Data Pipeline with Encryption.docx](https://github.com/user-attachments/files/29395407/Secure.HL7.Healthcare.Data.Pipeline.with.Encryption.docx)
+
 
 # Security Features
 ### Confidentiality
@@ -130,5 +133,5 @@ This projecr uses synthetic laboratory data generated solely for educational and
 
 # Connect with me
 If you are interested in healthcare cybersecurity, laboratory information systems or health data analytics, I would be happy to connect and discuss opportunities for collaboration.
-GitHub: https://github.com/Funmilayo-Faith
-LinkedIn: www.linkedin.com/in/faith-ajila
+### GitHub: https://github.com/Funmilayo-Faith
+### LinkedIn: www.linkedin.com/in/faith-ajila
