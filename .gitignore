@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Python cache
+_pycache_/
+*.py[cod]
+
+# Project-specific-rules
+secret.key
+hl7_messages.txt
+encrypted_hl7.txt
+decrypted_hl7_messages.txt
+encrypted_hash.txt
+audit_log.txt
